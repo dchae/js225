@@ -1,2 +1,3 @@
-# ls225
-notes and exercises for launch school's LS225 course
+# js225
+
+notes and exercises for launch school's JS225 course
