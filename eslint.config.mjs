@@ -70,7 +70,7 @@ export default [
       eqeqeq: "error",
 
       "id-length": [
-        "warn",
+        "off",
         {
           exceptions: [
             "_",
